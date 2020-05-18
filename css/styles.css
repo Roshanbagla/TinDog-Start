@@ -40,6 +40,9 @@ p{
 /* feature section */
 #features{
   padding: 7% 15%;
+  background-color: white;
+  position: relative;
+  z-index: 1;
 }
 .feature-box{
   text-align: center;
@@ -71,6 +74,8 @@ padding: 0 0 4.5rem;
 .title-image{
   width: 60%;
   transform: rotate(25deg);
+  position: absolute;
+
 }
 
 .icon {
