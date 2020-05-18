@@ -125,3 +125,44 @@ padding: 2%;
 .pricing-column{
   padding: 3% 2%;
 }
+@media (max-width: 1028px){
+  #title{
+    text-align: center;
+  }
+  .title-image{
+    position: static;
+    transform:rotate(0);
+  }
+}
+
+
+/* cta section */
+
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  color: white;
+  padding: 7% 15%;
+
+
+}
+.cta-heading{
+font-family: "Montserrat-Black",sans-serif;
+font-size: 3.5rem;
+line-height: 1.5;
+}
+
+/* Footer section  */
+
+#footer{
+  background-color: #fff;
+  text-align: center;
+  padding: 7% 15%;
+  margin:
+}
+.footer-para{
+  margin-top: 40px;
+}
+.social-icon {
+  margin: 20px 10px;
+}
